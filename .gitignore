@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.Python
+env/
+venv/
+# alembic/
+dist/
+alembic/versions/*.pyc
+alembic/__pycache__/
